@@ -72,6 +72,8 @@ function makeSound(key) {
     }
 }
 
+// Detecting Button Animation
+
 
 function buttonAnimation(currentKey) {
 
